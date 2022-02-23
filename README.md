@@ -1,1 +1,3 @@
 # anthropocentric-pca
+
+This short project is a demonstration of two dimensionality reduction methods, Principal Component Analysis, and Canonical Correlation Analysis. Both of these technqiues can be used to reduce the complextiy of high-dimensional data by identifying variables explaining a large share of the variation in a given data set, then unimportant components can therefore also be identified and removed. Thus, dataset dimensionality can be reduced without substantial information loss. PCA and CCA is demonstrated in this short exercise on eight anthropometric measurements obtained from http://mreed.umtri.umich.edu/mreed/downloads.html#ansur
